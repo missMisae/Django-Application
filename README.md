@@ -4,3 +4,4 @@
 ### Requirements 
 * jdk 
 * pip3
+* django 2.0+
